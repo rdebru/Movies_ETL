@@ -1,12 +1,12 @@
 # csv files.
 ratings.csv
-movies_metadata.csv
+
 credits.csv
 keywords.csv
 links.csv
 links_small.csv
 ratings_small.csv
-wikipedia-movies.json
+
 
 # config file
 config.py
